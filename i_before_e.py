@@ -42,3 +42,14 @@ def run_tests():
 # Edit this code
 def spell_check(word):
 
+    if c > ie:
+        print ("False")
+
+    elif c > ei:
+        print ("Correct")
+
+    elif i > e:
+        print ("Correct")
+
+    
+
